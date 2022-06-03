@@ -11,4 +11,4 @@ sia per miglioramenti non sostanziali.
 
 Vengono riportati i file R dedicati alle distinti analisi effettuate
 
-![alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fhouse-price-prediction-using-linear-regression-from-scratch-b2b48fd73689&psig=AOvVaw3hGtaTeZyERB8HoDct8yc-&ust=1654346852678000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCFz7eokfgCFQAAAAAdAAAAABAM](https://miro.medium.com/max/1024/0*YMZOAO8QE4bZ4_Rk.jpg))
+![alt text](https://miro.medium.com/max/1024/0*YMZOAO8QE4bZ4_Rk.jpg)
