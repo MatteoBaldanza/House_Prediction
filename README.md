@@ -1,4 +1,4 @@
-# House_Prediction
+# House Price Prediction
 
 L’obiettivo dello studio è stata la minimizazione
 del MAE (mean absolute prediction error) attraverso
@@ -9,6 +9,6 @@ mentre il tuning dei parametri non è stato molto
 approfondito sia per questioni computazionali
 sia per miglioramenti non sostanziali.
 
-Vengono riportati i file R dedicati alle distinti analisi effettuate
+Vengono riportati i file R dedicati alle distinti analisi effettuate e il report scientifico in formato pdf
 
 ![alt text](https://miro.medium.com/max/1024/0*YMZOAO8QE4bZ4_Rk.jpg)
